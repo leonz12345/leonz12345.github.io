@@ -2144,7 +2144,7 @@ button,
     width: 50%; }
     #banner .image img {
       height: 100%;
-      border-radius: 37.5%;
+      border-radius: 0.375em;
       -moz-object-fit: cover;
       -webkit-object-fit: cover;
       -ms-object-fit: cover;
